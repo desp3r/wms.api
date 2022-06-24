@@ -1,0 +1,12 @@
+C:\repos\uni\architecture\WMS.API\DataLayer\obj\Debug\net5.0\WMS.DataLayer.csproj.AssemblyReference.cache
+C:\repos\uni\architecture\WMS.API\DataLayer\obj\Debug\net5.0\WMS.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\uni\architecture\WMS.API\DataLayer\obj\Debug\net5.0\WMS.DataLayer.AssemblyInfoInputs.cache
+C:\repos\uni\architecture\WMS.API\DataLayer\obj\Debug\net5.0\WMS.DataLayer.AssemblyInfo.cs
+C:\repos\uni\architecture\WMS.API\DataLayer\obj\Debug\net5.0\WMS.DataLayer.csproj.CoreCompileInputs.cache
+C:\repos\uni\architecture\WMS.API\DataLayer\bin\Debug\net5.0\WMS.DataLayer.deps.json
+C:\repos\uni\architecture\WMS.API\DataLayer\bin\Debug\net5.0\WMS.DataLayer.dll
+C:\repos\uni\architecture\WMS.API\DataLayer\bin\Debug\net5.0\WMS.DataLayer.pdb
+C:\repos\uni\architecture\WMS.API\DataLayer\obj\Debug\net5.0\WMS.DataLayer.dll
+C:\repos\uni\architecture\WMS.API\DataLayer\obj\Debug\net5.0\refint\WMS.DataLayer.dll
+C:\repos\uni\architecture\WMS.API\DataLayer\obj\Debug\net5.0\WMS.DataLayer.pdb
+C:\repos\uni\architecture\WMS.API\DataLayer\obj\Debug\net5.0\ref\WMS.DataLayer.dll

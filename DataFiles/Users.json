@@ -1,0 +1,41 @@
+[
+  {
+    "Id": "a1d0d465-2299-4131-bfc4-e124d2d1b335",
+    "RecordState": 0,
+    "CreatedAtUtc": "2022-05-22T20:45:46.6865685Z",
+    "Login": "rndLogin",
+    "Password": "rndPass",
+    "Position": "Seller",
+    "FirstName": "John",
+    "LastName": "Bee",
+    "MiddleName": "Some",
+    "Age": 17,
+    "PhoneNumber": "777777777"
+  },
+  {
+    "Id": "6b0c391e-6f2e-4c7e-962e-7a29ddc4914f",
+    "RecordState": 1,
+    "CreatedAtUtc": "2022-05-22T20:45:47.9810842Z",
+    "Login": "string",
+    "Password": "string",
+    "Position": "string",
+    "FirstName": "string",
+    "LastName": "string",
+    "MiddleName": "string",
+    "Age": 0,
+    "PhoneNumber": "string"
+  },
+  {
+    "Id": "f506023c-8e2b-4b71-b264-cdffb4e3c52d",
+    "RecordState": 1,
+    "CreatedAtUtc": "2022-05-22T20:45:48.6770793Z",
+    "Login": "string",
+    "Password": "string",
+    "Position": "string",
+    "FirstName": "string",
+    "LastName": "string",
+    "MiddleName": "string",
+    "Age": 0,
+    "PhoneNumber": "string"
+  }
+]
