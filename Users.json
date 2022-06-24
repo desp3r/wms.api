@@ -1,0 +1,28 @@
+[
+  {
+    "Id": "3a58537c-5860-4067-809e-108c5fde8c6a",
+    "Login": "string",
+    "Password": "string",
+    "CreatedAtUtc": "0001-01-01T00:00:00",
+    "Position": null,
+    "FirstName": "string",
+    "LastName": "string",
+    "MiddleName": "string",
+    "Age": 0,
+    "PhoneNumber": "string",
+    "RecordState": 0
+  },
+  {
+    "Id": "96469fe0-625c-4ec9-b86c-74d920235203",
+    "Login": "string",
+    "Password": "string",
+    "CreatedAtUtc": "0001-01-01T00:00:00",
+    "Position": null,
+    "FirstName": "string",
+    "LastName": "string",
+    "MiddleName": "string",
+    "Age": 0,
+    "PhoneNumber": "string",
+    "RecordState": 0
+  }
+]
