@@ -1,0 +1,15 @@
+C:\repos\uni\architecture\WMS.API\WMS.BusinessLayer\bin\Debug\net5.0\WMS.BusinessLayer.deps.json
+C:\repos\uni\architecture\WMS.API\WMS.BusinessLayer\bin\Debug\net5.0\WMS.BusinessLayer.dll
+C:\repos\uni\architecture\WMS.API\WMS.BusinessLayer\bin\Debug\net5.0\WMS.BusinessLayer.pdb
+C:\repos\uni\architecture\WMS.API\WMS.BusinessLayer\obj\Debug\net5.0\WMS.BusinessLayer.csproj.AssemblyReference.cache
+C:\repos\uni\architecture\WMS.API\WMS.BusinessLayer\obj\Debug\net5.0\WMS.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\uni\architecture\WMS.API\WMS.BusinessLayer\obj\Debug\net5.0\WMS.BusinessLayer.AssemblyInfoInputs.cache
+C:\repos\uni\architecture\WMS.API\WMS.BusinessLayer\obj\Debug\net5.0\WMS.BusinessLayer.AssemblyInfo.cs
+C:\repos\uni\architecture\WMS.API\WMS.BusinessLayer\obj\Debug\net5.0\WMS.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\repos\uni\architecture\WMS.API\WMS.BusinessLayer\obj\Debug\net5.0\WMS.BusinessLayer.dll
+C:\repos\uni\architecture\WMS.API\WMS.BusinessLayer\obj\Debug\net5.0\refint\WMS.BusinessLayer.dll
+C:\repos\uni\architecture\WMS.API\WMS.BusinessLayer\obj\Debug\net5.0\WMS.BusinessLayer.pdb
+C:\repos\uni\architecture\WMS.API\WMS.BusinessLayer\obj\Debug\net5.0\ref\WMS.BusinessLayer.dll
+C:\repos\uni\architecture\WMS.API\WMS.BusinessLayer\bin\Debug\net5.0\WMS.DataLayer.dll
+C:\repos\uni\architecture\WMS.API\WMS.BusinessLayer\bin\Debug\net5.0\WMS.DataLayer.pdb
+C:\repos\uni\architecture\WMS.API\WMS.BusinessLayer\obj\Debug\net5.0\WMS.BusinessLayer.csproj.CopyComplete
